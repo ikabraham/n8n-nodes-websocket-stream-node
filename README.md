@@ -15,7 +15,7 @@ A production-ready custom node for streaming data continuously from a WebSocket 
 Install the package from npm:
 
 ```bash
-npm install websocket-stream
+npm install n8n-nodes-websocket-stream-node
 ```
 ## May need to add the following with uploading to npm via Codespace
 
