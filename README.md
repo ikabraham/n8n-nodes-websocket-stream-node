@@ -1,4 +1,4 @@
-# websocket-stream
+# n8n-nodes-websocket-stream-node
 
 A production-ready custom node for streaming data continuously from a WebSocket connection. This node establishes a persistent WebSocket connection and emits each incoming message to the workflow.
 
